@@ -1,0 +1,97 @@
+Associate Software Engineer
+-------------------------------------------
+Job Profile
+
+Associate Software Engineer
+
+Probation period
+
+Approximately 6 months
+
+Posting Location
+
+Work from anywhere (Remote)
+
+Service Agreement
+
+Given the extensive training, mentorship, and onboarding support provided during the probationary period, a Service Agreement will have to be signed on or before the date of joining. This agreement requires a minimum commitment of 18 months (including the 6-month probation period).
+
+ 
+
+Compensation Structure:
+During probation (~first 6 months): A monthly salary of 25,000.
+
+Upon confirmation (~post 6 months):
+
+The monthly salary will be revised to a range of 75,000 to 1,00,000, based on performance.
+
+A fixed confirmation bonus of 50,000.
+
+Retention bonus: Upon completing 12 months of total tenure, a retention bonus of 1,00,000 will be credited. 
+
+These figures exclude applicable business-related reimbursements.
+
+ 
+
+To make sure you have all the necessary information at your fingertips, we have attached two important resources to this email: 
+
+Job Application Form
+
+Campus Slide Deck 
+
+They have all the required information about the application process, company details, eligibility criteria, contact details, and employee benefits one can enjoy at rtCamp.
+
+
+Notes about the Campus Placement Process:
+
+Students from CS/CE/IT backgrounds are welcome to apply.
+
+Shortlisting will be based on open-source contributions on GitHub, specifically quality pull requests (PRs) to well-regarded projects.
+
+Next Steps
+Circulate the JAF and slide deck with the students.
+
+Inform students to register through this link - https://careers.rtcamp.com/job/associate-software-engineer/
+
+The shortlisting process will take anywhere from 15 to 30 business days.
+
+Students will receive an update about their application on their registered email.
+
+Interviews of the shortlisted students will be conducted over Zoom, and students will receive the interview schedule on their registered email. (used to sign up on careers.rtcamp.com/campus)
+
+------------------------------------------------------------
+Students from CSE/CE/IT
+backgrounds are welcome
+to apply.
+A sound knowledge of
+PHP is essential, along
+with a solid foundation
+in computer science
+principles
+Well-maintained GitHub
+profile, shortlisting will be
+based on open-source
+contributions on GitHub,
+specifically quality pull
+requests (PRs) to
+well-regarded projects.
+No minimum percentage
+criteria. You can apply
+even if you have active
+backlogs or have
+dropped out.
+
+
+--------------------------------------------------
+Health insurance
+Remote work
+25-days paid time off
+Weekend fixed off
+Annual increments
+Conference allowance
+-------------------------------------
+Our growth in the design and development world is a testament to our unwavering dedication to quality and collaborative client relationships. In an industry where trust is paramount, we’ve distinguished ourselves as a true partner, with clients valuing our open-source dedication and transparent problem-solving.
+
+WordPress VIP gold partner
+Trusted by some of the biggest brands in the world for enterprise-grade web solutions. We are proud to be part of the global open-source community, having contributed code to each of the past 30 WordPress releases, organizing and speaking at tens of conferences.
+-------------------------------------------------
